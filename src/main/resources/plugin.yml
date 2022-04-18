@@ -1,0 +1,9 @@
+name: BloodHeroes
+author: ajoobe
+description: A Slimfun addon
+main: com.github.ajoobe.bloodheroes.BloodHeroes
+website: https://github.com/Ajoobe/BloodHeroes
+version: ${project.version}
+api-version: 1.14
+depend:
+- Slimefun

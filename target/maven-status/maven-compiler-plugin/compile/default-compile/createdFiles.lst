@@ -1,0 +1,5 @@
+com\github\ajoobe\bloodheroes\machines\CompositeCompressor.class
+com\github\ajoobe\bloodheroes\items\BHItemSetup.class
+com\github\ajoobe\bloodheroes\BloodHeroes.class
+com\github\ajoobe\bloodheroes\items\BHItems.class
+com\github\ajoobe\bloodheroes\machines\RegisterMachines.class
